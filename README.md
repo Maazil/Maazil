@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maazil
 - 👀 I’m interested in programming, gaming, music and working out.
-- 🌱 I’m currently learning front-end with Vue 3 and .NET
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a junior developer for renteradar.no
+- 💞️ 
 - 📫 How to reach me: matthew.ling98@gmail.com
 
 <!---
