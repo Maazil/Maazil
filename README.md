@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maazil
 - 👀 I’m interested in programming, gaming, music and working out.
-- 🌱 I’m currently working as a junior developer for renteradar.no
+- 🌱 I’m currently working as a frontend developer at renteradar.no
 - 💞️ 
 - 📫 How to reach me: matthew.ling98@gmail.com
 
